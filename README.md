@@ -22,4 +22,5 @@
 - 작명소 <br> https://www.curioustore.com/#!/ <br><br>
 - 깃허브 폴더 다운로드 <br> https://downgit.github.io/#/home?url= <br><br>
 - 프론트엔드 커리큘럼 <br> https://github.com/GoRyangJu/curriculum<br><br>
-- 프로그래밍 무료 학습 자료 모음<br>https://careerly.co.kr/comments/67251?utm_source=crm_dm_optinusers&utm_medium=email&utm_content=res221006&utm_campaign=res&is_retargeting=true&screen=comments&shortlink=pmpft2ja&c=221006resurrection&pid=res&id=67251&af_xp=custom<br>
+- 프로그래밍 무료 학습 자료 모음 <br> https://careerly.co.kr/comments/67251?utm_source=crm_dm_optinusers&utm_medium=email&utm_content=res221006&utm_campaign=res&is_retargeting=true&screen=comments&shortlink=pmpft2ja&c=221006resurrection&pid=res&id=67251&af_xp=custom<br>
+- 취업 정보 <br> https://github.com/jojoldu/junior-recruit-scheduler
