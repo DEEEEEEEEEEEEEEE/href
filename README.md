@@ -16,6 +16,7 @@
 - CS 면접 질문 모음 <br> https://github.com/JaeYeopHan/Interview_Question_for_Beginner#part-2-language <br> https://github.com/gyoogle/tech-interview-for-developer<br><br>
 - CS 강의 <br> https://swexpertacademy.com/main/learn/course/courseList.do <br><br>
 - CS 강의 <br> https://www.baeldung.com/cs/ <br><br>
+- 테코톡 <br> https://github.com/chance0523/Techo-Talk-Study <br><br>
 
 
 <h1>Etc</h1>
@@ -24,4 +25,5 @@
 - 깃허브 폴더 다운로드 <br> https://downgit.github.io/#/home?url= <br><br>
 - 프론트엔드 커리큘럼 <br> https://github.com/GoRyangJu/curriculum<br><br>
 - 프로그래밍 무료 학습 자료 모음 <br> https://careerly.co.kr/comments/67251?utm_source=crm_dm_optinusers&utm_medium=email&utm_content=res221006&utm_campaign=res&is_retargeting=true&screen=comments&shortlink=pmpft2ja&c=221006resurrection&pid=res&id=67251&af_xp=custom<br>
-- 취업 정보 <br> https://github.com/jojoldu/junior-recruit-scheduler
+- 취업 정보 <br> https://github.com/jojoldu/junior-recruit-scheduler <br><br>
+- 이력서 작성 팁 <br> https://wonny.space/writing/work/engineer-resume
