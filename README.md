@@ -13,9 +13,10 @@
 - 드롭다운 메뉴 만들기 <br> https://ckim0531.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%93%9C%EB%A1%AD%EB%8B%A4%EC%9A%B4 <br><br>
 
 <h1>Computer Science</h1>
-- CS 면접 질문 모음 <br> https://github.com/JaeYeopHan/Interview_Question_for_Beginner#part-2-language <br><br>
+- CS 면접 질문 모음 <br> https://github.com/JaeYeopHan/Interview_Question_for_Beginner#part-2-language <br> https://github.com/gyoogle/tech-interview-for-developer<br><br>
 - CS 강의 <br> https://swexpertacademy.com/main/learn/course/courseList.do <br><br>
 - CS 강의 <br> https://www.baeldung.com/cs/ <br><br>
+
 
 <h1>Etc</h1>
 - .ico VS .png <br> https://simigeum.tistory.com/18 <br><br>
